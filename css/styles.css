@@ -1,0 +1,11 @@
+body {
+    min-height: 300vh;
+}
+
+dialog {
+    max-width: 25rem;
+}
+
+::backdrop {
+    background-color: hsl(0 0% 0% / 0.4);
+}
